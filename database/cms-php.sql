@@ -123,8 +123,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`user_id`, `user_name`, `user_password`) VALUES
-(1, 'quangthai', '123'),
-(2, 'phanhung', '123');
+(1, 'admin', '123'),
+(2, 'dung', '123');
 
 --
 -- Indexes for dumped tables
