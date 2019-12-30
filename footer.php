@@ -55,19 +55,19 @@
                         <ul>
                             <li class="clearfix">
                                 <div class="inner">
-                                    <span class="address">Triều Thủy, Phú An<br> Phú Vang, Thừa Thiên Huế.</span>
+                                    <span class="address"><br>Thừa Thiên Huế.</span>
                                 </div>
                             </li>
 
                             <li class="clearfix">
                                 <div class="inner">
-                                    <span class="phone">070 3584 997</span>
+                                    <span class="phone"></span>
                                 </div>
                             </li>
 
                             <li class="clearfix">
                                 <div class="innerinner">
-                                    <span class="email">nguyenquangthaib1@gmail.com</span>
+                                    <span class="email">lvdung98addp@gmail.com</span>
                                 </div>
                             </li>
                         </ul>
@@ -85,7 +85,7 @@
                 <div id="bottom-bar-inner" class="clearfix">
                     <div class="bottom-bar-content">
                         <div id="copyright">
-                            Copyright © 2019 <span>Quang Thái</span> - Blog Channel.
+                            Copyright © 2019 <span></span> - Blog Channel.
                         </div><!-- #copyright -->
                     </div>
                 </div>
